@@ -1,0 +1,6 @@
+{
+  "name": "OmniStore - Sistema E-commerce Marca Blanca",
+  "description": "Plataforma E-commerce multi-propósito de marca blanca desarrollada con arquitectura PHP, MySQL y PWA, adaptable a cualquier nicho comercial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
